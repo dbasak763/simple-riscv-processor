@@ -14,7 +14,7 @@ Performance & Power Analysis using toggle activity and simple optimizations
 
 Automation with Python scripts for simulation and waveform analysis
 
-Repository Layout
+##Repository Layout
 RISC-V-CPU/
 ├── phase1_setup/              # Tool setup + hello world demo
 ├── phase2_rtl_foundation/     # Core building blocks
