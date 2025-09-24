@@ -14,17 +14,18 @@ Performance & Power Analysis using toggle activity and simple optimizations
 
 Automation with Python scripts for simulation and waveform analysis
 
-##Repository Layout
+## Repository Layout
+
 RISC-V-CPU/
-├── phase1_setup/              # Tool setup + hello world demo
-├── phase2_rtl_foundation/     # Core building blocks
-├── phase3_cpu_core/           # Single-cycle CPU (in progress)
-├── phase4_debugging/          # Debugging + validation
-├── phase5_power_performance/  # Power + performance tradeoffs
-├── scripts/                   # Automation scripts
-├── testbenches/               # Verification testbenches
-├── waveforms/                 # Simulation results
-└── docs/                      # Documentation
+├── phase1_setup/ # Tool setup + hello world demo
+├── phase2_rtl_foundation/ # Core building blocks
+├── phase3_cpu_core/ # Single-cycle CPU (in progress)
+├── phase4_debugging/ # Debugging + validation
+├── phase5_power_performance/ # Power + performance tradeoffs
+├── scripts/ # Automation scripts
+├── testbenches/ # Verification testbenches
+├── waveforms/ # Simulation results
+└── docs/ # Documentation
 
 Development Environment
 
